@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**lucas-amberg/lucas-amberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎙️My name is Lucas Amberg, I am a nineteen year old aspiring software engineer who loves to learn new things to help me advance in my programming.
 
-Here are some ideas to get you started:
+▶️Currently Learning:
+- JavaScript
+- Webpack
+- CSS
+- HTML
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏸️Eager to Learn:
+- Node.js
+- React.js
+- React Native
+- C++
+
+😎You can see some of my projects I have made on my learning journey here on my Github. Thanks for coming by!
