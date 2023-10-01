@@ -3,14 +3,15 @@
 🎙️My name is Lucas Amberg, I am a nineteen year old aspiring software engineer who loves to learn new things to help me advance in my programming.
 
 ▶️Currently Learning:
-- JavaScript (& Webpack)
+- JavaScript/TypeScript
+- React.js
 - CSS
 - HTML
 - Python
 
 ⏸️Eager to Learn:
 - Node.js
-- React.js
+- Express
 - React Native
 - C++
 
