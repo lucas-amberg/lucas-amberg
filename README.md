@@ -8,10 +8,9 @@
 - CSS
 - HTML
 - Python
-- Express
+- Express/Node.js
 
 ⏸️Eager to Learn:
-- Node.js
 - React Native
 - C++
 
