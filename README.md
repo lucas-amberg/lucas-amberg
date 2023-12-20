@@ -2,11 +2,15 @@
 
 🎙️My name is Lucas Amberg, I am a nineteen year old software engineer who loves to learn new things to help me advance in my programming.
 
-▶️Currently Learning:
-- JavaScript/TypeScript
-- React.js
+⏩Daily Drivers:
+- JavaScript
 - CSS
 - HTML
+
+▶️Currently Learning:
+- React.js
+- TypeScript
+- Tailwind CSS
 - Python
 - Express/Node.js
 
