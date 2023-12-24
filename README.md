@@ -15,6 +15,7 @@ My personal portfolio website can be found [here](https://lucasamberg.dev/).
 - Tailwind CSS
 - Python
 - Express/Node.js
+- Next.js
 
 ⏸️Eager to Learn:
 - React Native
