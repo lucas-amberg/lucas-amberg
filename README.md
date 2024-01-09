@@ -9,6 +9,7 @@ My personal portfolio website can be found [here](https://lucasamberg.dev/).
 - CSS
 - HTML
 
+
 ▶️Currently Learning:
 - React.js
 - TypeScript
@@ -22,3 +23,5 @@ My personal portfolio website can be found [here](https://lucasamberg.dev/).
 - React Native
 
 😎You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-amberg&layout=pie&theme=dark)](https://github.com/lucas-amberg/github-readme-stats)
