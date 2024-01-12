@@ -22,6 +22,7 @@ My personal portfolio website can be found [here](https://lucasamberg.dev/).
 
 ⏸️Eager to Learn:
 - React Native
+- Django
 
 😎You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
 
