@@ -8,16 +8,17 @@ My personal portfolio website can be found [here](https://lucasamberg.dev/).
 - JavaScript
 - CSS
 - HTML
+- React.js
 
 
 ▶️Currently Learning:
-- React.js
 - TypeScript
 - Tailwind CSS
 - Python
 - Express/Node.js
 - Next.js
 - C++
+- PyTorch
 
 ⏸️Eager to Learn:
 - React Native
