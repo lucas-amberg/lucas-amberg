@@ -7,14 +7,12 @@ My personal portfolio website can be found [here](https://lucasamberg.dev/).
 ⏩Daily Drivers:
 - JavaScript
 - CSS
-- HTML
 - React.js
 - TypeScript
 - Next.js
 
 
 ▶️Currently Learning:
-
 - Tailwind CSS
 - Python
 - Express/Node.js
