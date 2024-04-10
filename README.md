@@ -16,8 +16,8 @@
 
 😎You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucas-amberg&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucas-amberg&theme=dark)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-amberg&layout=pie&theme=dark)](https://github.com/lucas-amberg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-amberg&layout=pie&theme=dark)]()
 
 
