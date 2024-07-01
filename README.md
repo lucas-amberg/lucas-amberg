@@ -5,19 +5,16 @@
 🖼️My personal portfolio website can be found [here](https://lucasamberg.dev/).
 
 ⏩Daily Drivers:
-- JavaScript
-- CSS
-- React.js
 - TypeScript
 - Next.js
+- Neo4j
 - Tailwind CSS
+- Panda CSS (+ spinoffs)
 - Python
 
 
 😎You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucas-amberg&theme=dark)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-amberg&layout=pie&theme=dark)]()
 
 
