@@ -15,7 +15,8 @@
 
 😎You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
 
-![Anurag's GitHub stats](https://github-readme-stats-smoky-seven-93.vercel.app/api?username=lucas-amberg&show_icons=true&theme=transparent)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucas-amberg&theme=dark)]()
 
+![Anurag's GitHub stats](https://github-readme-stats-smoky-seven-93.vercel.app/api?username=lucas-amberg&show_icons=true&theme=vision-friendly-dark)
 
