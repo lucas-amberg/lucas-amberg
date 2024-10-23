@@ -11,6 +11,7 @@
 - Tailwind CSS
 - Panda CSS (+ spinoffs)
 - Python
+- Java
 
 
 ## 😎 You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
