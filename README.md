@@ -7,11 +7,12 @@
 ## ⏩ Daily Drivers:
 - TypeScript
 - Next.js
-- Neo4j
+- Supabase
 - Tailwind CSS
 - Panda CSS (+ spinoffs)
 - Python
 - Java
+- React Native
 
 
 ## 😎 You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
