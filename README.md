@@ -13,7 +13,7 @@
 - Python
 - Java
 - React Native
-
+- C++
 
 ## 😎 You can see some of my projects I have made on my learning journey here on my GitHub. Thanks for coming by!
 
