@@ -9,7 +9,6 @@
 - Next.js
 - Supabase
 - Tailwind CSS
-- Panda CSS (+ spinoffs)
 - Python
 - Java
 - React Native
