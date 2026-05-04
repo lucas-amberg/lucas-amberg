@@ -28,8 +28,8 @@
 ### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-smoky-seven-93.vercel.app/api?username=lucas-amberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats-smoky-seven-93.vercel.app/api/top-langs/?username=lucas-amberg&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" height="165" />
+  <img src="https://github-readme-stats-smoky-seven-93.vercel.app/api?username=lucas-amberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" height="165" />
+  <img src="https://github-readme-stats-smoky-seven-93.vercel.app/api/top-langs/?username=lucas-amberg&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&v=2" height="165" />
 </p>
 
 <p align="left">
